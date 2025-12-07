@@ -5,10 +5,11 @@ name = "pypi"
 
 [packages]
 ipdb = "*"
-faker = "*"
 pytest = "7.1.3"
+faker = "*"
 
 [dev-packages]
+faker = "*"
 
 [requires]
 python_version = "3.8.13"
